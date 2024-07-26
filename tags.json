@@ -2,13 +2,13 @@
   "release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-07-23T01:12:49.000Z",
-    "last_updated_url": "https://github.com/tainrs/prowlarr/actions/runs/10050897305",
+    "last_updated": "2024-07-26T12:53:47.000Z",
+    "last_updated_url": "https://github.com/tainrs/prowlarr/actions/runs/10111560822",
     "latest": true,
     "tags": [
       "release",
       "release-1.20.1.4603",
-      "release-91f39c0"
+      "release-93f7c0c"
     ]
   }
 }
