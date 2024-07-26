@@ -10,5 +10,17 @@
       "release-1.20.1.4603",
       "release-448e805"
     ]
+  },
+  "update-versions-release": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-26T22:34:58.000Z",
+    "last_updated_url": "https://github.com/tainrs/prowlarr/actions/runs/10118432158",
+    "latest": true,
+    "tags": [
+      "update-versions-release",
+      "update-versions-release-1.21.2.4649",
+      "update-versions-release-50ef5dc"
+    ]
   }
 }
