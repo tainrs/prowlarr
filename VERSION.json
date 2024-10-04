@@ -9,5 +9,5 @@
   "upstream_digest_arm64": "",
   "upstream_image": "docker.io/tainrs/base",
   "upstream_tag": "alpine",
-  "version": ""
+  "version": "1.24.3.4754"
 }
