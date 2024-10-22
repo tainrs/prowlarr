@@ -14,13 +14,13 @@
   "update-versions-release": {
     "description": "Stable",
     "hide": false,
-    "last_updated": "2024-10-18T12:28:27.000Z",
-    "last_updated_url": "https://github.com/tainrs/prowlarr/actions/runs/11403661990",
+    "last_updated": "2024-10-22T06:21:10.000Z",
+    "last_updated_url": "https://github.com/tainrs/prowlarr/actions/runs/11454403487",
     "latest": true,
     "tags": [
       "update-versions-release",
-      "update-versions-release-1.24.3.4754",
-      "update-versions-release-51e2a94"
+      "update-versions-release-1.25.4.4818",
+      "update-versions-release-6f8d0b1"
     ]
   }
 }
